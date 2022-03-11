@@ -1,0 +1,23 @@
+{
+
+  "params":
+  {
+   "loacl_server":"True",
+    "local_uri":"mysql://root:@localhost/ghostcoding",
+    "prod_uri":"mysql://root:@localhost/ghostcoding",
+    "fb_uri":"https://facebook.com/ghostcoding",
+    "tw_uri":"https://twitter.com/ghostcoding",
+    "gh_uri":"https://github.com/ghostcoding",
+    "blog_name": "Ghost Coding",
+    "tag_line": "A Blog Use By Programmers",
+    "about_text": "Hi my name is Ranjan. this my site",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "ranjan",
+    "admin_password": "1234",
+    "upload_location": "C:\\Users\\Ranjan Maji\\PycharmProjects\\Flask\\static"
+
+  }
+
+
+}

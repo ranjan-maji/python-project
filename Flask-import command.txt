@@ -1,0 +1,3 @@
+pip install mysqlclient pymysql
+pip install flask-sqlalchemy
+
