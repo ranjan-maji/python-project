@@ -2,7 +2,7 @@
 # 	CONTACT MANAGEMENT SYSTEM	#
 #########################################
 #					#
-#   Name : RANJAN MAJI		#
+#   Name : RANJAN MAJI		        #
 #					#
 #   Code : 0000				#
 #					#
@@ -15,7 +15,7 @@ import sqlite3
 import tkinter.ttk as ttk
 import tkinter.messagebox as tkMessageBox
 
-#DEVELOPED BY Ranjan maji
+#DEVELOPED BY Ranjan Maji
 root = Tk()
 root.title("Ranjna's Contact List")
 width = 700
